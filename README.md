@@ -15,7 +15,7 @@ One of the prerequisites of this module is that you be able to create
 * How to update the DOM, live, using JavaScript
 
 If you're not feeling confident in one of these areas, be sure to get more
-comfortable before continuing one.
+comfortable before continuing on.
 
 Assuming you have these basics down, you're where most JavaScript developers
 were during the late 90's and early 00's. Most web applications were the result
